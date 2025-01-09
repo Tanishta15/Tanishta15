@@ -7,6 +7,7 @@ Hello everyone, my name is **Tanishta**, an **Information Technology** undergrad
 - Develop **mobile applications** using **Flutter, Dart, and Kotlin**, with a focus on secure and scalable solutions.  
 - Conduct impactful research in **deep learning and image processing**, including presenting at IEEE conferences.  
 
+</p>
 <h3>Projects Done So Far:</h3>
 - 🌿 **Mango Leaf Disease Detection**: Designed a high-accuracy detection model using **EfficientNet and Fast.ai library**, achieving 99.1% precision.
 - Accepted and presenting the research paper "Identifying Mango Leaf Diseases with Advanced Deep Learning Approaches and Convolutional Neural Network" at INCIP 2025, published in IEEE conference proceedings.
@@ -29,7 +30,6 @@ Hello everyone, my name is **Tanishta**, an **Information Technology** undergrad
 Repository contains all the certifications done in various technologies:
     🔗 <li><a href="https://github.com/Tanishta15/Certification"></a></li>
 
-</p>
 <h3>Languages and frameworks that I work with</h3>
 <p>
   <img alt="Android" src="https://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=white" />
