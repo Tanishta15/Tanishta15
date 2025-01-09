@@ -29,6 +29,7 @@ Hello everyone, my name is **Tanishta**, an **Information Technology** undergrad
 🔗 _https://github.com/Tanishta15/merchant_
 
 - 🌌 **AES Image Encryption and Decryption**: Image encryption and decryption using AES (Advanced Encryption Standard) and user interface using Tkinter GUI.
+  
 🔗 _https://github.com/Tanishta15/AES_image_
 
 <h3>Certifications:</h3>
