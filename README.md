@@ -10,7 +10,7 @@ Hello everyone, my name is **Tanishta**, an **Information Technology** undergrad
 <h3>Projects Done So Far:</h3>
 - 🌿 **Mango Leaf Disease Detection**: Designed a high-accuracy detection model using **EfficientNet and Fast.ai library**, achieving 99.1% precision.
 - Accepted and presenting the research paper "Identifying Mango Leaf Diseases with Advanced Deep Learning Approaches and Convolutional Neural Network" at INCIP 2025, published in IEEE    conference proceedings.
-    🔗 <li><a href="https://github.com/Tanishta15/Mangoleaf"></a></li>
+    🔗 <ul><li><a href="https://github.com/Tanishta15/Mangoleaf"></a></li></ul>
 
 - 📦 **Supply Chain Optimization**: Enhanced forecasting and inventory management for the automobile industry with SARIMAX(Seasonal Autoregressive Integrated Moving Average with          eXogenous factors), EOQ techniques and also calculating distance matrix for transportation.
     🔗 <li><a href="https://github.com/Tanishta15/Innovent"></a></li>
