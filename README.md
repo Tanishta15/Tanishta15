@@ -1,6 +1,6 @@
 <h3>Languages and frameworks that I work with</h3>
 <p>
-  <img alt="Android" src="https://img.shields.io/badge/-Android-34A853?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android-Studio-3DDC84?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Apache Hadoop" src="https://img.shields.io/badge/-Apache-Hadoop-66CCFF?style=flat-square&logo=html5&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=html5&logoColor=white" />
