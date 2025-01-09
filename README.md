@@ -1,5 +1,6 @@
-Hello everyone, my name is **Tanishta**, an **Information Technology** undergraduate at **Manipal Institute of Technology**. My interests lie at the intersection of **Artificial Intelligence**, **App Development**, and **Data-Driven Solutions**.
-<h3> A liitle about me:</h3>
+Hello everyone, my name is **Tanishta**, an **Information Technology** undergraduate at **Manipal Institute of Technology**. My interests lie at the intersection of **Artificial Intelligence**, **App Development**, and **Data-Driven Solutions**. 
+
+<h3> 🦝 A liitle about me:</h3>
 <p>
 
 **What technology exictes me:**
