@@ -12,25 +12,29 @@ Hello everyone, my name is **Tanishta**, an **Information Technology** undergrad
 
 - 🌿 **Mango Leaf Disease Detection**: Designed a high-accuracy detection model using **EfficientNet and Fast.ai library**, achieving 99.1% precision.
 - Accepted and presenting the research paper "Identifying Mango Leaf Diseases with Advanced Deep Learning Approaches and Convolutional Neural Network" at INCIP 2025, published in IEEE conference proceedings.
+  
 🔗 _https://github.com/Tanishta15/Mangoleaf_
 
 - 📦 **Supply Chain Optimization**: Enhanced forecasting and inventory management for the automobile industry with SARIMAX(Seasonal Autoregressive Integrated Moving Average with eXogenous factors), EOQ techniques and also calculating distance matrix for transportation.
 
-🔗 <a href="https://github.com/Tanishta15/Innovent"></a>
+🔗 _https://github.com/Tanishta15/Innovent_
      
 - ➕ I also worked on supply chain managament related to the pharmaceutical industry
-    🔗 <li><a href="https://github.com/Tanishta15/Pharma_Chain/tree/main/SCOPE"></a></li>
+
+🔗 _https://github.com/Tanishta15/Pharma_Chain/tree/main/SCOPE_
     
 - 📲 **QR Payment and Coupon Generation**: Engineered a QR code generation system in Flutter and Dart for seamless e-payment processing, reducing transaction time
   and enabling secure coupon redemption.
-    🔗 <li><a href="https://github.com/Tanishta15/merchant"></a></li>
+
+🔗 _https://github.com/Tanishta15/merchant_
 
 - 🌌 **AES Image Encryption and Decryption**: Image encryption and decryption using AES (Advanced Encryption Standard) and user interface using Tkinter GUI.
-    🔗 <li><a href="https://github.com/Tanishta15/AES_image"></a></li>
+🔗 _https://github.com/Tanishta15/AES_image_
 
 <h3>Certifications:</h3>
 Repository contains all the certifications done in various technologies:
-    🔗 <li><a href="https://github.com/Tanishta15/Certification"></a></li>
+
+🔗 _https://github.com/Tanishta15/Certification_
 
 <h3>Languages and frameworks that I work with</h3>
 <p>
