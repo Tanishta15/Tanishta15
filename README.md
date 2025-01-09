@@ -1,3 +1,35 @@
+Hello everyone, my name is **Tanishta**, an **Information Technology** undergraduate at **Manipal Institute of Technology**. My interests lie at the intersection of **Artificial Intelligence**, **App Development**, and **Data-Driven Solutions**.
+<h3> A liitle about me:</h3>
+<p>
+
+**What technology exictes me:**
+- Build and optimize **AI/ML models** for tasks like natural language processing, forecasting and predictive analytics.  
+- Develop **mobile applications** using **Flutter, Dart, and Kotlin**, with a focus on secure and scalable solutions.  
+- Conduct impactful research in **deep learning and image processing**, including presenting at IEEE conferences.  
+
+<h3>Projects Done So Far:</h3>
+- 🌿 **Mango Leaf Disease Detection**: Designed a high-accuracy detection model using **EfficientNet and Fast.ai library**, achieving 99.1% precision.
+- Accepted and presenting the research paper "Identifying Mango Leaf Diseases with Advanced Deep Learning Approaches and Convolutional Neural Network" at INCIP 2025, published in IEEE    conference proceedings.
+    🔗 <li><a href="https://github.com/Tanishta15/Mangoleaf"></a></li>
+
+- 📦 **Supply Chain Optimization**: Enhanced forecasting and inventory management for the automobile industry with SARIMAX(Seasonal Autoregressive Integrated Moving Average with          eXogenous factors), EOQ techniques and also calculating distance matrix for transportation.
+    🔗 <li><a href="https://github.com/Tanishta15/Innovent"></a></li>
+     
+- ➕ I also worked on supply chain managament related to the pharmaceutical industry
+    🔗 <li><a href="https://github.com/Tanishta15/Pharma_Chain/tree/main/SCOPE"></a></li>
+    
+- 📲 **QR Payment and Coupon Generation**: Engineered a QR code generation system in Flutter and Dart for seamless e-payment processing, reducing transaction time
+  and enabling secure coupon redemption.
+    🔗 <li><a href="https://github.com/Tanishta15/merchant"></a></li>
+
+- 🌌 **AES Image Encryption and Decryption**: Image encryption and decryption using AES (Advanced Encryption Standard) and user interface using Tkinter GUI.
+    🔗 <li><a href="https://github.com/Tanishta15/AES_image"></a></li>
+
+<h3>Certifications:</h3>
+Repository contains all the certifications done in various technologies:
+    🔗 <li><a href="https://github.com/Tanishta15/Certification"></a></li>
+
+</p>
 <h3>Languages and frameworks that I work with</h3>
 <p>
   <img alt="Android" src="https://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=white" />
@@ -23,3 +55,9 @@
   <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
 
 </p>
+
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
