@@ -1,4 +1,4 @@
-Hello everyone, my name is **Tanishta**, an **Information Technology** undergraduate at **Manipal Institute of Technology**. My interests lie at the intersection of **Artificial Intelligence**, **App Development**, and **Data-Driven Solutions**. 
+**Tanishta** here, probably busy trying to restart my app or my laptop which crashed because of said app. 
 
 <h3> 🦝 A liitle about me:</h3>
 <p>
