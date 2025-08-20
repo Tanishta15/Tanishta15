@@ -47,22 +47,12 @@ ________________________________________________________________________________
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanishta15&theme=radical&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&currStreakLabel=ff79c6&hide_border=true" />
 </p>
 
-____________________________________________________________________________________________________________________
-
-🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝
-
-____________________________________________________________________________________________________________________
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanishta15&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishta15&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-____________________________________________________________________________________________________________________
-
-🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝
-
-____________________________________________________________________________________________________________________
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tanishta15&theme=dracula&no-frame=true&row=1&column=6" />
