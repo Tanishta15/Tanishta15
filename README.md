@@ -5,8 +5,11 @@
 - Build and optimize **AI/ML models** for tasks like natural language processing, forecasting and predictive analytics.  
 - Conduct impactful research in **deep learning and image processing**, including presenting at IEEE conferences.  
 ____________________________________________________________________________________________________________________
+
 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝
+
 ____________________________________________________________________________________________________________________
+
 <h3>Languages and frameworks that I work with</h3>
 <p>
   <img alt="Android" src="https://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=white" />
@@ -31,24 +34,36 @@ ________________________________________________________________________________
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
 </p>
+
 ____________________________________________________________________________________________________________________
+
 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝
+
 ____________________________________________________________________________________________________________________
+
 ## GitHub Fun Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanishta15&theme=radical&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&currStreakLabel=ff79c6&hide_border=true" />
 </p>
+
 ____________________________________________________________________________________________________________________
+
 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝
+
 ____________________________________________________________________________________________________________________
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanishta15&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishta15&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
 ____________________________________________________________________________________________________________________
+
 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝
+
 ____________________________________________________________________________________________________________________
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tanishta15&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
