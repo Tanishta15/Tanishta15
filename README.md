@@ -3,7 +3,6 @@
 
 **What technology exictes me:**
 - Build and optimize **AI/ML models** for tasks like natural language processing, forecasting and predictive analytics.  
-- Develop **mobile applications** using **Flutter, Dart, and Kotlin**, with a focus on secure and scalable solutions.  
 - Conduct impactful research in **deep learning and image processing**, including presenting at IEEE conferences.  
 
 <h3>Languages and frameworks that I work with</h3>
@@ -32,46 +31,10 @@
 
 </p>
 
-## 📊 GitHub Fun Stats
+## GitHub Fun Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanishta15&theme=radical&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&currStreakLabel=ff79c6&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishta15&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishta15&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanishta15&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
-## 🎵 Random Developer Facts
-
-- 🦸 My superpower: Turning bugs 🐞 into features ✨ (don’t ask how).  
-- 🎮 When I’m not coding, you’ll find me crushing it at chess ♟️ or vibing to playlists 🎧.  
-- 🚀 Dream project: Building an **AI-powered app** that’s as sassy as JARVIS.  
-- 🐾 Sidekick: Raccoons, because they’re the true full-stack devs (front-end: cute face, back-end: trash bandit).  
-
----
-
-## 🌍 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="150" />  
-  <br>
-  <i>"Keep coding. Keep learning. Keep vibing."</i>
 </p>
 
 <h3>My GitHub contributions summary</h3>
