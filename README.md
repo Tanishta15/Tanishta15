@@ -1,9 +1,11 @@
-<h3> 🦝 A liitle about me:</h3>
+<h3> 🦝 A little about me:</h3>
 <p>
 
 **What technology exictes me:**
 - Build and optimize **AI/ML models** for tasks like natural language processing, forecasting and predictive analytics.  
 - Conduct impactful research in **deep learning and image processing**, including presenting at IEEE conferences.  
+
+🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝
 
 <h3>Languages and frameworks that I work with</h3>
 <p>
@@ -28,8 +30,9 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
-
 </p>
+
+🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝
 
 ## GitHub Fun Stats
 
@@ -37,15 +40,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanishta15&theme=radical&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&currStreakLabel=ff79c6&hide_border=true" />
 </p>
 
+🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanishta15&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishta15&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanishta15&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
+🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝 🦝
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanishta15&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
