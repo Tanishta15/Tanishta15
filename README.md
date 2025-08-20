@@ -1,5 +1,3 @@
-**Tanishta** here, probably busy trying to restart my app or my laptop which crashed because of said app. 
-
 <h3> 🦝 A liitle about me:</h3>
 <p>
 
@@ -7,36 +5,6 @@
 - Build and optimize **AI/ML models** for tasks like natural language processing, forecasting and predictive analytics.  
 - Develop **mobile applications** using **Flutter, Dart, and Kotlin**, with a focus on secure and scalable solutions.  
 - Conduct impactful research in **deep learning and image processing**, including presenting at IEEE conferences.  
-
-</p>
-<h3>Projects Done So Far:</h3>
-
-- 🌿 **Mango Leaf Disease Detection**: Designed a high-accuracy detection model using **EfficientNet and Fast.ai library**, achieving 99.1% precision.
-- Accepted and presenting the research paper "Identifying Mango Leaf Diseases with Advanced Deep Learning Approaches and Convolutional Neural Network" at INCIP 2025, published in IEEE conference proceedings.
-  
-🔗 _https://github.com/Tanishta15/Mangoleaf_
-
-- 📦 **Supply Chain Optimization**: Enhanced forecasting and inventory management for the automobile industry with SARIMAX(Seasonal Autoregressive Integrated Moving Average with eXogenous factors), EOQ techniques and also calculating distance matrix for transportation.
-
-🔗 _https://github.com/Tanishta15/Innovent_
-     
-- ➕ I also worked on supply chain managament related to the pharmaceutical industry
-
-🔗 _https://github.com/Tanishta15/Pharma_Chain/tree/main/SCOPE_
-    
-- 📲 **QR Payment and Coupon Generation**: Engineered a QR code generation system in Flutter and Dart for seamless e-payment processing, reducing transaction time
-  and enabling secure coupon redemption.
-
-🔗 _https://github.com/Tanishta15/merchant_
-
-- 🌌 **AES Image Encryption and Decryption**: Image encryption and decryption using AES (Advanced Encryption Standard) and user interface using Tkinter GUI.
-  
-🔗 _https://github.com/Tanishta15/AES_image_
-
-<h3>Certifications:</h3>
-Repository contains all the certifications done in various technologies:
-
-🔗 _https://github.com/Tanishta15/Certification_
 
 <h3>Languages and frameworks that I work with</h3>
 <p>
@@ -62,6 +30,48 @@ Repository contains all the certifications done in various technologies:
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
 
+</p>
+
+## 📊 GitHub Fun Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanishta15&theme=radical&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&currStreakLabel=ff79c6&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishta15&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishta15&layout=compact&theme=radical&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanishta15&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎵 Random Developer Facts
+
+- 🦸 My superpower: Turning bugs 🐞 into features ✨ (don’t ask how).  
+- 🎮 When I’m not coding, you’ll find me crushing it at chess ♟️ or vibing to playlists 🎧.  
+- 🚀 Dream project: Building an **AI-powered app** that’s as sassy as JARVIS.  
+- 🐾 Sidekick: Raccoons, because they’re the true full-stack devs (front-end: cute face, back-end: trash bandit).  
+
+---
+
+## 🌍 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="150" />  
+  <br>
+  <i>"Keep coding. Keep learning. Keep vibing."</i>
 </p>
 
 <h3>My GitHub contributions summary</h3>
